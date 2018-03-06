@@ -6,15 +6,15 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Ryan A. Peek
-orcid: "orcid.org/0000-0002-9577-6885"
-jobtitle: "PhD Candidate, Ecology, UC Davis"
-address: "1000 Tulip Lane · Davis · CA 95618"
+author: Nan-Hung Hsieh 
+orcid: "orcid.org/0000-0003-0163-2766"
+jobtitle: "Postdoctoral Research Associate, Texas A&M University"
+#address: "402 Raymond Stotzer Pkwy, College Station, TX 77845"
 fontawesome: yes
-email: rapeek@ucdavis.edu
-github: ryanpeek
+email: nh@nanhung.me
+github: nanhung
 #phone: "+1 555 5555"
-web: ryanpeek.github.io
+web: nanhung.me
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -26,79 +26,139 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# EXPERIENCE
+Department of Veterinary Integrative Biosciences, Texas A&M University  
+Postdoctoral Research Associate  \hfill 08/2016 --
+
+Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
+Health  
+Research Associate \hfill 08/2013 -- 07/2016 
+
 # EDUCATION
 
-*University of California, Davis*, Ph.D. candidate Ecology \hfill expected 2018  
-*University of San Francisco*, M.S. Biology \hfill 2010  
-*University of California, Davis*, B.S. Wildlife, Fish, & Conservation Biology \hfill 2002  
+National Taiwan University, Ph.D. Bioenvironmental Systems Engineering, 2013  
+National Taiwan University, M.Eng. Bioenvironmental Systems Engineering, 2010  
+National United University, B.Sc. Safety, Health and Environmental Engineering, 2007  
 
-# EMPLOYMENT
+# RESEARCH PROJECT
+**Postdoctoral Research Associate** \hfill 09/2016--  
 
-*Center for Watershed Sciences, UC Davis:*
+> U.S. Food and Drug Administration. *Enhancing the reliability, efficiency, and
+usability of Bayesian population - Create, implement, and evaluate a robust Global
+Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1U01FD005838-01. 
 
- > Graduate Student Researcher \hfill  2014--present
+**Principle Investigator**  \hfill 03/2015--12/2015  
 
- > Jr. Research Specialist \hfill  2011--2014
+> Institute of Labor, Occupational Safety and Health. *Assessing the Fine Particles-Associated Exposure Hazards for Workers in Workplace*. ILOSH104-A310. 
 
-*USDA Forest Service, Pacific Southwest Research Station:*
+**Principle Investigator**  \hfill 03/2014--12/2014  
 
- > Biological Science Technician \hfill  2010
-
-*Stillwater Sciences:*
-
- > Fish & Wildlife Biologist \hfill  2002--2011
-
-*National Park Service (Sequoia & Kings Canyon):*
-
- > Biological Science Technician \hfill  2001  
-
-# TEACHING
-
-*Instructor, R for Data Analysis and Visualization in Science* \hfill 2017-2018
-
-> Lead instructor for graduate course teaching R and version control. Course designed to train students in toolsets applicable to the entire process of reproducible data-driven research and encourage the use of open-source tools. (https://gge-ucd.github.io/R-DAVIS/).
-
-*Instructor, Software/Data Carpentry* \hfill 2016
-
-> Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Taught ecology/natural science workshops at UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
-  
-*Co-Instructor, Ecogeomorphology, University of California Davis* \hfill 2015
-
-> Taught undergraduate course inmultidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of the Tuolumne Watershed. Guided, lectured, and taught in classroom, lab, and field.
-
-# SELECTED PUBLICATIONS
-
-Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
-
-Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
-
-Grantham, T., K. Fesenmeyer, R. Peek, E. Holmes, A. Bell, R. Quiñones, N. Santos, J. Howard, J. Viers, P. Moyle. 2016. "Missing the boat on freshwater fish conservation in California." *Conservation Letters* 10.1111/conl.12249.
-
-Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2015. "Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California." *PLoS One* 10(7): e0130710.
-
-Yarnell, S.M, R.A. Peek, D.E. Rheinheimer, A.J. Lind, and J.H. Viers. 2013. "Management of the Spring Snowmelt Recession: An Integrated Analysis of Empirical, Hydrodynamic, and Hydropower Modeling Applications." Final Report. California Energy Commission. Publication number: CEC-500-2013. 137 pp.
-
-Viers, J.H., SE Purdy, R.A. Peek, A. Fryoff-Hung, N.R. Santos, J.V.E. Katz, J.D. Emmons, D.V. Dolan, and S.M. Yarnell. 2013. "Montane Meadows in the Sierra Nevada: Changing Hydroclimatic Conditions and Concepts for Vulnerability Assessment." Center for Watershed Sciences Technical Report (CWS-2013-01), University of California, Davis. 63 pp.
-
-Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii*) in regulated and unregulated rivers: Assessing connectivity and genetic fragmentation." Master’s Thesis, Biology Department. University of San Francisco, CA. 69 pp.
-
-# PUBLIC MEDIA
-
-“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present. (https://aggiebrickyard.github.io)
-
-"Nature's Confluence Blog" Contributing Writer, 2015--present. (http://www.naturesconfluence.com)
+> Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. ILOSH103-A307.
 
 # AWARDS
+- Postgraduate Research Abroad Program, Taiwan Ministry of Science and Technology, 2016 
+- Outstanding R&D alternative military award, Taiwan Ministry of the Interior, 2016
+- Outstanding Alumni, National united University, 2015
+- Best PhD Academic Research Paper, National Taiwan University, 2012
 
-**2016**  *Best Oral Presentation for Basic Research*, Society for Freshwater Science Annual Conference, Sacramento CA
+# SERVICES TO THE PROFESSION
+## Peer review for scientific journals  
 
-**2015**  *Henry A. Jastro Research Award*, UC Davis College of Agricultural and Environmental Sciences
+> *Computational and Mathematical Methods in Medicine, Environmental Chemistry Letters, Environmental Research, International Journal of Environmental Research and Public Health, International Journal of Occupational and Environmental Health, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment*
 
-# PROFESSIONAL AFFILIATIONS & SERVICE	  
+# COMPUTER INTERESTS
 
-  - Software & Data Carpentry Instructor | Undocu-Ally Educator
-  - Davis R-Users Group - Co-Administrator (https://d-rug.github.io/)
-  - American Society of Ichthyologists and Herpetologists (ASIH)
-  - Society for Study of Amphibians and Reptiles (SSAR)
-  - Ecology Society of America (ESA) | Society for Freshwater Science (SFS)
-  - Whitewater Rafting Guide, Outdoor Adventures, UC Davis, 2013--present
+- Operating System: GNU/Linux, Mac OS
+- Languages: R
+- Other: Git, GNU MCSim, High-Performance Computer
+
+# OTHER
+- Membership: Society of Toxicology (USA)
+- Language: Mandarin (Native), English
+- Personal Interests: Computer & Information Technology
+
+---
+
+# PUBLICATIONS
+
+## Journal Article 
+
+2018
+
+> Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. 2018. Environmental Science and Pollution Research: Feb; 25(6):5359-68.
+
+2017
+
+> **Hsieh NH**, Lin YJ, Yang YF, Liao CM*. Assessing the oseltamivir-induced resistance risk and implications for influenza infection control strategies. Infection and Drug Resistance 2017 Jul; 10: 215-26.  
+
+> Cheng YH, You SH, Lin YJ, Chen SC, Chen WY, Chou WC, **Hsieh NH**, Liao CM*. Mathematical modeling of postcoinfection with influenza A virus and Streptococcus pneumoniae, with implications for pneumonia and COPD-risk assessment. International Journal of Chronic Obstructive Pulmonary Disease 2017 Jul; 12:1973-88.  
+
+> Lin YJ, Ling MP&ast;, Chen SC, Chen WY, **Hsieh NH**, Cheng YH, You SH, Chou WC, Lin MC, Liao CM&ast;. 2017. Mixture risk assessment due to ingestion of arsenic, copper, and zinc from milkfish farmed in contaminated coastal areas. Environmental Science and Pollution Research: Jun; 24(17):14616-26.  
+
+> **Hsieh NH**, Chung SH, Chen SC, Chen WY, Cheng YH, Lin YJ, You SH, Liao CM*. Anemia risk in relation to lead exposure in lead-related manufacturing. BMC Public Health 2017 May; 17:389.  
+
+2016
+
+> Chen WY*, Chen ZY, **Hsieh NH**, Ju YT. Site-specific water quality criteria for lethal/sublethal protections of freshwater fish exposed to zinc in southern Taiwan. Chemosphere 2016 Sep; 159:412-9.
+
+> Cheng YH, Wang CH, You SH, **Hsieh NH**, Chen WY, Chio CP, Liao CM*. Assessing coughing-induced influenza droplet transmission and implications for infection risk control. Epidemiology and Infection 2016 Jan; 144(2):333-45.
+
+2015
+
+> Chen WY, Cheng YH, **Hsieh NH**, Wu BC, Chou WC, Ho CC, Chen JK, Liao CM&ast, Lin P&ast. Physiologically-based pharmacokinetic modeling of zinc oxide nanoparticles and zinc nitrate in mice. International Journal of Nanomedicine 2015 Oct; 10:6277-6292.
+
+> Liao CM*, Wu BC, Cheng YH, You SH, Lin YJ, **Hsieh NH**. Ceramics manufacturing contributes to ambient silica air pollution and burden of lung disease. Environmental Science and Pollution Research 2015 Oct; 22(19):15067-79.
+
+> Chen SC, **Hsieh NH**, You SH, Wang CH, Liao CM*. 2015. Behavioural response in educated young adults towards influenza A(H1N1)pdm09. Epidemiology and Infection 2015 Jul; 143(9):1846-57.
+
+> Liao CM*, Huang TL, Cheng YH, Chen WY, **Hsieh NH**, Chen SC, Chio CP. Assessing dengue infection risk in southern region of Taiwan and implications for control. Epidemiology and Infection 2015 Apr; 143(5):1059-72.
+
+> Liao CM*, Huang TL, Lin YJ, You SH, Cheng YH, **Hsieh NH**, Chen WY. Regional response of dengue fever epidemics to interannual variation and related climate variability. Stochastic Environmental Research and Risk Assessment 2015 Mar; 29(3):947-58.
+
+2014
+
+> **Hsieh NH**, Cheng YH, Liao CM*. Changing variance and skewness as leading indicators for detecting ozone exposure-associated lung function decrement. Stochastic Environmental Research and Risk Assessment 2014 Dec; 28(8):2205-16. 
+
+> **Hsieh NH**, Liao CM*. In vitro measurement and dynamic modeling-based approaches for deposition risk assessment of inhaled aerosols in human respiratory system. Atmospheric Environment 2014 Oct; 95:268-76.
+ 
+2013
+
+> **Hsieh NH**, Liao CM*. Fluctuations in air pollution give risk warning signals of asthma hospitalization. Atmospheric Environment 2013 Aug; 75:206–16. 
+
+> **Hsieh NH**, Liao CM*. Assessing exposure risk for dust storm events-associated lung function decrement in asthmatics and implications for control. Atmospheric Environment 2013 Apr; 68:256–64. 
+
+2012
+
+> Liao CM*, Cheng YH, Lin YJ, **Hsieh NH**, Huang TL, Chio CP, Chen SC, Ling MP. A Probabilistic transmission and population dynamic model to assess tuberculosis infection risk. Risk Analysis 2012 Aug; 32(8): 1420–32.
+
+> Chio CP, Chen WY, Chou WC, **Hsieh NH**, Ling MP, Liao CM*. Assessing the potential risk to zebrafish posed by environmentally copper and silver nanoparticles. Science of the Total Environment 2012 Mar; 420: 111–8.
+
+> Liao CM*, **Hsieh NH**, Huang TL, Cheng YH, Lin YJ, Chio CP, Chen SC, Ling MP. Assessing trends and predictors of tuberculosis in Taiwan. BMC Public Health 2012 Jan; 12:29.
+
+2011
+
+> Liao CM*, **Hsieh NH**, Chio CP. Fluctuation analysis-based risk assessment for respiratory virus activity and air pollution associated asthma incidence. Science of the Total Environment 2011 Aug; 409: 3325–33.
+
+> Liao CM*, Chio CP, Cheng YH, **Hsieh NH**, Chen WY, Chen SC. Quantitative links between arsenic exposure and influenza A (H1N1) infection-associated lung function exacerbations risk. Risk Analysis 2011 Aug; 31(8): 1281–94.
+
+> Ling MP, Chio CP, Chou WC, Chen WY, **Hsieh NH**, Lin YJ, Liao CM*. Assessing the potential exposure risk and control for airborne titanium dioxide and carbon black nanoparticles in the workplace. Environmental Science and Pollution Research 2011 Jul; 18(6): 877–89.
+
+2010
+
+> Liao CM*, **Hsieh NH**, Chio CP, Chen SC. Assessing the exacerbations risk of influenza-associated chronic occupational asthma. Risk Analysis 2010 Jul; 30(7): 1062–75.
+
+> Liao CM*, Lin TL, **Hsieh NH**, Chen WY. Assessing the arsenic-contaminated rice (Oryza sativa) associated children skin lesions. Journal of Hazardous Materials 2010 Apr; 176(1–3): 239–51.
+
+## Conference Papers
+
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA. Applying a global sensitivity analysis workflow to improve computational efficiencies in physiologically-based pharmacokinetic model. 57th SOT Annual Meeting, San Antonio, USA, March 11-15, 2018.
+
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA. Applying A Global Sensitivity Analysis Workflow to Improve Computational Efficiency in Physiologically-Based Pharmacokinetic Modeling. 2017 SRA Annual Meeting, Arlington, USA, December 10-14, 2017. 
+
+> **Hsieh NH**, Chung SH. Meta-Analysis of the Fine Particulate Matters-Associated Occupational Health Risks. SOT 56th Annual Meeting, Baltimore, USA, March 12–16, 2017.
+
+> **Hsieh NH**, Liao CM. Modeling honey bee extinction risk by neonicotinoid insecticide (imidacloprid) exposure. SETAC Europe 26th Annual Meeting, Nantes, France, May 22–26, 2016.
+
+> **Hsieh NH**, Liao CM. Fluctuating air pollution-associated asthma incidence in Taiwan. SETAC Europe 23rd Annual Meeting, Glasgow, UK, May 12–16, 2013.
+
+> **Hsieh NH**, Chio CP, Liao CM. Assessing the risks for aquatic organisms posed by waterborne copper and silver nanoparticles. SETAC Europe 21st Annual Meeting Milan, Italy, May 15–19, 2011.
