@@ -37,6 +37,9 @@ Research Associate \hfill 08/2013 -- 07/2016
 # EDUCATION
 
 Ph.D. Bioenvironmental Systems Engineering, National Taiwan University, 2013  
+
+> Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* \hfill Advisor: Prof: [Chung-Min Liao](homepage.ntu.edu.tw/~cmliao/)
+
 M.Eng. Bioenvironmental Systems Engineering, National Taiwan University, 2010  
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
 
@@ -58,7 +61,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 # AWARDS
 - Postgraduate Research Abroad Program, Taiwan Ministry of Science and Technology, 2016 
 - Outstanding R&D alternative military award, Taiwan Ministry of the Interior, 2016
-- Outstanding Alumni, National united University, 2015
+- Outstanding Alumni, National United University, 2015
 - Best PhD Academic Research Paper, National Taiwan University, 2012
 
 # SERVICES TO THE PROFESSION
