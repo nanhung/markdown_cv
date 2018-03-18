@@ -65,9 +65,15 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 - Best PhD Academic Research Paper, National Taiwan University, 2012
 
 # SERVICES TO THE PROFESSION
+## Editorial Board Member
+
+> *Journal of Environment Pollution and Human Health* 
+
 ## Peer review for scientific journals  
 
 > *Computational and Mathematical Methods in Medicine, Environmental Chemistry Letters, Environmental Research, International Journal of Environmental Research and Public Health, International Journal of Occupational and Environmental Health, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment*
+
+
 
 # COMPUTER INTERESTS
 
@@ -108,7 +114,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 2015
 
-> Chen WY, Cheng YH, **Hsieh NH**, Wu BC, Chou WC, Ho CC, Chen JK, Liao CM&ast, Lin P&ast. Physiologically-based pharmacokinetic modeling of zinc oxide nanoparticles and zinc nitrate in mice. International Journal of Nanomedicine 2015 Oct; 10:6277-6292.
+> Chen WY, Cheng YH, **Hsieh NH**, Wu BC, Chou WC, Ho CC, Chen JK, Liao CM\*, Lin P\*. Physiologically-based pharmacokinetic modeling of zinc oxide nanoparticles and zinc nitrate in mice. International Journal of Nanomedicine 2015 Oct; 10:6277-6292.
 
 > Liao CM*, Wu BC, Cheng YH, You SH, Lin YJ, **Hsieh NH**. Ceramics manufacturing contributes to ambient silica air pollution and burden of lung disease. Environmental Science and Pollution Research 2015 Oct; 22(19):15067-79.
 
