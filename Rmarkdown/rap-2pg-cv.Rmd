@@ -71,15 +71,19 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 ## Peer review for scientific journals  
 
-> *Computational and Mathematical Methods in Medicine, Environmental Chemistry Letters, Environmental Research, International Journal of Environmental Research and Public Health, International Journal of Occupational and Environmental Health, Stochastic Environmental Research and Risk Assessment, Science of the Total Environment*
-
-
+- Computational and Mathematical Methods in Medicine (6) 
+- Environmental Research (1)
+- International Journal of Environmental Research and Public Health (4)
+- International Journal of Molecular Sciences (1)
+- International Journal of Occupational and Environmental Health (1)
+- Science of the Total Environment (1)
+- Stochastic Environmental Research and Risk Assessment (1)
 
 # COMPUTER INTERESTS
 
-- Operating System: GNU/Linux, Mac OS
+- Operating System: GNU/Linux
 - Languages: R
-- Other: Git, GNU MCSim, High-Performance Computer
+- Other: Git, GNU/MCSim, High-Performance Computer
 
 # OTHER
 - Membership: Society of Toxicology (USA)
