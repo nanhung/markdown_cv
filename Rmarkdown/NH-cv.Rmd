@@ -11,7 +11,7 @@ orcid: "orcid.org/0000-0003-0163-2766"
 jobtitle: "Postdoctoral Research Associate, Texas A&M University"
 #address: "402 Raymond Stotzer Pkwy, College Station, TX 77845"
 fontawesome: yes
-email: nh@nanhung.me
+email: nhsieh@cvm.tamu.edu
 github: nanhung
 #phone: "+1 555 5555"
 web: nanhung.me
@@ -98,7 +98,9 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 2018
 
-> Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. 2018. Environmental Science and Pollution Research: Feb; 25(6):5359-68.
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. 2018. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology: Accepted. 
+
+> Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. 2018. PBPK/PD assessment for Parkinson’s disease risk posed by airborne pesticide paraguat exposure. Environmental Science and Pollution Research: Feb; 25(6):5359-68.
 
 2017
 
