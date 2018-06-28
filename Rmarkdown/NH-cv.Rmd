@@ -82,7 +82,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 # COMPUTER INTERESTS
 
 - Operating System: GNU/Linux
-- Languages: R
+- Languages: R, C, Python, Matlab
 - Other: Git, GNU/MCSim, High-Performance Computer
 
 # OTHER
@@ -95,10 +95,13 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 # PUBLICATIONS
 
 ## Journal Article 
-
 2018
 
-> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. 2018. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology: Accepted. 
+> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. 2018. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology. Accepted.
+
+> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. Accepted. 
+
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. 2018. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology: Jun; 9:588. 
 
 > Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. 2018. PBPK/PD assessment for Parkinson’s disease risk posed by airborne pesticide paraguat exposure. Environmental Science and Pollution Research: Feb; 25(6):5359-68.
 
