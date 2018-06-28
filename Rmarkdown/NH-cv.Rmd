@@ -7,7 +7,7 @@ geometry: margin=1in
 
 title: "CV"
 author: Nan-Hung Hsieh 
-orcid: "orcid.org/0000-0003-0163-2766"
+orcid:  "Created by R Markdown" #"orcid.org/0000-0003-0163-2766"
 jobtitle: "Postdoctoral Research Associate, Texas A&M University"
 #address: "402 Raymond Stotzer Pkwy, College Station, TX 77845"
 fontawesome: yes
@@ -38,7 +38,7 @@ Research Associate \hfill 08/2013 -- 07/2016
 
 Ph.D. Bioenvironmental Systems Engineering, National Taiwan University, 2013  
 
-> Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* \hfill Advisor: Prof: [Chung-Min Liao](homepage.ntu.edu.tw/~cmliao/)
+> Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* \hfill Advisor: Prof. [Chung-Min Liao](homepage.ntu.edu.tw/~cmliao/)
 
 M.Eng. Bioenvironmental Systems Engineering, National Taiwan University, 2010  
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
@@ -47,7 +47,7 @@ B.Sc. Safety, Health and Environmental Engineering, National United University, 
 **Postdoctoral Research Associate** \hfill 09/2016--  
 
 > U.S. Food and Drug Administration. *Enhancing the reliability, efficiency, and
-usability of Bayesian population - Create, implement, and evaluate a robust Global
+usability of Bayesian population PBPK modeling - Create, implement, and evaluate a robust Global
 Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1U01FD005838-01. 
 
 **Principle Investigator**  \hfill 03/2015--12/2015  
@@ -82,8 +82,8 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 # COMPUTER INTERESTS
 
 - Operating System: GNU/Linux
-- Languages: R, C, Python, Matlab
-- Other: Git, GNU/MCSim, High-Performance Computer
+- Scientific computing: R, C, Python, Matlab, GNU/MCSim
+- Other: Git, High-Performance Computer, HTML + CSS
 
 # OTHER
 - Membership: Society of Toxicology (USA)
