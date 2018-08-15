@@ -30,6 +30,8 @@ urlcolor: blue
 Department of Veterinary Integrative Biosciences, Texas A&M University  
 Postdoctoral Research Associate  \hfill 08/2016 --
 
+\hfill Supervisor: Prof. [Weihsueh A. Chiu](http://vetmed.tamu.edu/vibs/directorydetail?userid=13388)
+
 Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
 Health  
 Research Associate \hfill 08/2013 -- 07/2016 
@@ -38,7 +40,9 @@ Research Associate \hfill 08/2013 -- 07/2016
 
 Ph.D. Bioenvironmental Systems Engineering, National Taiwan University, 2013  
 
-> Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* \hfill Advisor: Prof. [Chung-Min Liao](homepage.ntu.edu.tw/~cmliao/)
+> Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* 
+
+\hfill Advisor: Prof. [Chung-Min Liao](http://homepage.ntu.edu.tw/~cmliao/)
 
 M.Eng. Bioenvironmental Systems Engineering, National Taiwan University, 2010  
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
@@ -82,7 +86,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 # COMPUTER INTERESTS
 
 - Operating System: GNU/Linux
-- Scientific computing: R, C, Python, Matlab, GNU/MCSim
+- Scientific computing: C, R, Python, GNU/MCSim
 - Other: Git, High-Performance Computer, HTML + CSS
 
 # OTHER
@@ -97,9 +101,11 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 ## Journal Article 
 2018
 
-> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. 2018. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology. Accepted.
+> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. 2018. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology. In Press.
 
-> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. Accepted. 
+> Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wrigt AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. 2018. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX. In Press.
+
+> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. In Press. 
 
 > **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. 2018. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology: Jun; 9:588. 
 
