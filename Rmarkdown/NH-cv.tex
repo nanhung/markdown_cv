@@ -1,0 +1,495 @@
+\documentclass[10pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+%\renewenvironment{itemize}{
+%  \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Nan-Hung Hsieh - CV - Created by R Markdown }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Nan-Hung Hsieh:  CV (Curriculum Vitae)},
+            pdfauthor={Nan-Hung Hsieh},
+            pdfkeywords={RMarkdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Nan-Hung Hsieh}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Postdoctoral Research Associate, Texas A\&M University}
+
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:nhsieh@cvm.tamu.edu}{\nolinkurl{nhsieh@cvm.tamu.edu}}} \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/nanhung}{\tt nanhung} \hspace{1 mm}    \faGlobe \hspace{1 mm} \href{http://nanhung.me}{\tt nanhung.me}    | \emph{Updated:} \today}
+
+\vspace{2 mm}
+
+\hrule
+
+
+\section{EXPERIENCE}\label{experience}
+
+Department of Veterinary Integrative Biosciences, Texas A\&M
+University\\
+Postdoctoral Research Associate \hfill 08/2016 --
+
+\hfill Supervisor: Prof.
+\href{http://vetmed.tamu.edu/vibs/directorydetail?userid=13388}{Weihsueh
+A. Chiu}
+
+Division of Occupational Hazards Assessment, Institute of Labor,
+Occupational Safety and Health\\
+Research Associate \hfill 08/2013 -- 07/2016
+
+\section{EDUCATION}\label{education}
+
+Ph.D.~Bioenvironmental Systems Engineering, National Taiwan University,
+2013
+
+\begin{quote}
+Dissertation: \emph{Dynamic modeling and analysis of air
+pollution-associated lung function exacerbations risk}
+\end{quote}
+
+\hfill Advisor: Prof.
+\href{http://homepage.ntu.edu.tw/~cmliao/}{Chung-Min Liao}
+
+M.Eng. Bioenvironmental Systems Engineering, National Taiwan University,
+2010\\
+B.Sc. Safety, Health and Environmental Engineering, National United
+University, 2007
+
+\section{RESEARCH PROJECT}\label{research-project}
+
+\textbf{Postdoctoral Research Associate} \hfill 09/2016--
+
+\begin{quote}
+U.S. Food and Drug Administration. \emph{Enhancing the reliability,
+efficiency, and usability of Bayesian population PBPK modeling - Create,
+implement, and evaluate a robust Global Sensitivity Analysis algorithm
+to reduce PBPK model parameter dimensionality}. 1U01FD005838-01.
+\end{quote}
+
+\textbf{Principle Investigator} \hfill 03/2015--12/2015
+
+\begin{quote}
+Institute of Labor, Occupational Safety and Health. \emph{Assessing the
+Fine Particles-Associated Exposure Hazards for Workers in Workplace}.
+ILOSH104-A310.
+\end{quote}
+
+\textbf{Principle Investigator} \hfill 03/2014--12/2014
+
+\begin{quote}
+Institute of Labor, Occupational Safety and Health. \emph{Assessing
+Health Risks for Workers in High Lead Exposed Factories}. ILOSH103-A307.
+\end{quote}
+
+\section{AWARDS}\label{awards}
+
+\begin{itemize}
+\tightlist
+\item
+  Outstanding R\&D alternative military award, Taiwan Ministry of the
+  Interior, 2016
+\item
+  Outstanding Alumni, National United University, 2015
+\item
+  Best PhD Academic Research Paper, National Taiwan University, 2012
+\end{itemize}
+
+\section{SERVICES TO THE PROFESSION}\label{services-to-the-profession}
+
+\subsection{Editorial Board Member}\label{editorial-board-member}
+
+\begin{quote}
+\emph{Journal of Environment Pollution and Human Health}
+\end{quote}
+
+\subsection{Peer review for scientific
+journals}\label{peer-review-for-scientific-journals}
+
+\begin{itemize}
+\tightlist
+\item
+  Computational and Mathematical Methods in Medicine (6)
+\item
+  Environmental Research (1)
+\item
+  International Journal of Environmental Research and Public Health (4)
+\item
+  International Journal of Molecular Sciences (1)
+\item
+  International Journal of Occupational and Environmental Health (1)
+\item
+  Science of the Total Environment (1)
+\item
+  Stochastic Environmental Research and Risk Assessment (1)
+\end{itemize}
+
+\section{COMPUTER INTERESTS}\label{computer-interests}
+
+\begin{itemize}
+\tightlist
+\item
+  Operating System: GNU/Linux
+\item
+  Scientific computing: C, R, Python, GNU/MCSim
+\item
+  Other: Git, High-Performance Computer, HTML + CSS
+\end{itemize}
+
+\section{OTHER}\label{other}
+
+\begin{itemize}
+\tightlist
+\item
+  Membership: Society of Toxicology (USA)
+\item
+  Language: Mandarin (Native), English
+\item
+  Personal Interests: Computer \& Information Technology
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\section{PUBLICATIONS}\label{publications}
+
+\subsection{Journal Article}\label{journal-article}
+
+2018
+
+\begin{quote}
+Grimm FA, Blanchette A, House JS, Ferguson K, \textbf{Hsieh NH},
+Dalaijamts C, Wrigt AA, Anson B, Wright FA, Chiu WA, Rusyn I*. 2018. A
+human population-based organotypic \emph{in vitro} model for
+cardiotoxicity screening. ALTEX. In Press.
+\end{quote}
+
+\begin{quote}
+Cheng YH, Lin YJ, Chen SC*, You SH, Chen WY, \textbf{Hsieh NH}, Yang YF,
+Liao CM*. 2018. Assessing health burden risk and control effect on
+dengue fever infection in southern region of Taiwan. Infection and Drug
+Resistance. In Press.
+\end{quote}
+
+\begin{quote}
+Luo YS, \textbf{Hsieh NH}, Chiu WA, Rusyn I*. Comparative analysis of
+metabolism of trichloroethylene and tetrachloroethylene among tissues
+and mouse strains. Toxicology 2018 Nov; 409(1): 33-43.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Reisfeld B, Bois FY, Chiu WA*. Applying a global
+sensitivity analysis workflow to improve the computational efficiencies
+in physiologically-based pharmacokinetic modeling. Frontiers in
+Pharmacology 2018 Jun; 9:588.
+\end{quote}
+
+\begin{quote}
+Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY,
+\textbf{Hsieh NH}, Lin YJ, You SH, Liao CM*. PBPK/PD assessment for
+Parkinson's disease risk posed by airborne pesticide paraguat exposure.
+Environmental Science and Pollution Research 2018 Feb; 25(6):5359-68.
+\end{quote}
+
+2017
+
+\begin{quote}
+\textbf{Hsieh NH}, Lin YJ, Yang YF, Liao CM*. Assessing the
+oseltamivir-induced resistance risk and implications for influenza
+infection control strategies. Infection and Drug Resistance 2017 Jul;
+10: 215-26.
+\end{quote}
+
+\begin{quote}
+Cheng YH, You SH, Lin YJ, Chen SC, Chen WY, Chou WC, \textbf{Hsieh NH},
+Liao CM*. Mathematical modeling of postcoinfection with influenza A
+virus and Streptococcus pneumoniae, with implications for pneumonia and
+COPD-risk assessment. International Journal of Chronic Obstructive
+Pulmonary Disease 2017 Jul; 12:1973-88.
+\end{quote}
+
+\begin{quote}
+Lin YJ, Ling MP*, Chen SC, Chen WY, \textbf{Hsieh NH}, Cheng YH, You SH,
+Chou WC, Lin MC, Liao CM*. 2017. Mixture risk assessment due to
+ingestion of arsenic, copper, and zinc from milkfish farmed in
+contaminated coastal areas. Environmental Science and Pollution
+Research: Jun; 24(17):14616-26.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Chung SH, Chen SC, Chen WY, Cheng YH, Lin YJ, You SH,
+Liao CM*. Anemia risk in relation to lead exposure in lead-related
+manufacturing. BMC Public Health 2017 May; 17:389.
+\end{quote}
+
+2016
+
+\begin{quote}
+Chen WY*, Chen ZY, \textbf{Hsieh NH}, Ju YT. Site-specific water quality
+criteria for lethal/sublethal protections of freshwater fish exposed to
+zinc in southern Taiwan. Chemosphere 2016 Sep; 159:412-9.
+\end{quote}
+
+\begin{quote}
+Cheng YH, Wang CH, You SH, \textbf{Hsieh NH}, Chen WY, Chio CP, Liao
+CM*. Assessing coughing-induced influenza droplet transmission and
+implications for infection risk control. Epidemiology and Infection 2016
+Jan; 144(2):333-45.
+\end{quote}
+
+2015
+
+\begin{quote}
+Chen WY, Cheng YH, \textbf{Hsieh NH}, Wu BC, Chou WC, Ho CC, Chen JK,
+Liao CM*, Lin P*. Physiologically-based pharmacokinetic modeling of zinc
+oxide nanoparticles and zinc nitrate in mice. International Journal of
+Nanomedicine 2015 Oct; 10:6277-6292.
+\end{quote}
+
+\begin{quote}
+Liao CM*, Wu BC, Cheng YH, You SH, Lin YJ, \textbf{Hsieh NH}. Ceramics
+manufacturing contributes to ambient silica air pollution and burden of
+lung disease. Environmental Science and Pollution Research 2015 Oct;
+22(19):15067-79.
+\end{quote}
+
+\begin{quote}
+Chen SC, \textbf{Hsieh NH}, You SH, Wang CH, Liao CM*. 2015. Behavioural
+response in educated young adults towards influenza A(H1N1)pdm09.
+Epidemiology and Infection 2015 Jul; 143(9):1846-57.
+\end{quote}
+
+\begin{quote}
+Liao CM*, Huang TL, Cheng YH, Chen WY, \textbf{Hsieh NH}, Chen SC, Chio
+CP. Assessing dengue infection risk in southern region of Taiwan and
+implications for control. Epidemiology and Infection 2015 Apr;
+143(5):1059-72.
+\end{quote}
+
+\begin{quote}
+Liao CM*, Huang TL, Lin YJ, You SH, Cheng YH, \textbf{Hsieh NH}, Chen
+WY. Regional response of dengue fever epidemics to interannual variation
+and related climate variability. Stochastic Environmental Research and
+Risk Assessment 2015 Mar; 29(3):947-58.
+\end{quote}
+
+2014
+
+\begin{quote}
+\textbf{Hsieh NH}, Cheng YH, Liao CM*. Changing variance and skewness as
+leading indicators for detecting ozone exposure-associated lung function
+decrement. Stochastic Environmental Research and Risk Assessment 2014
+Dec; 28(8):2205-16.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Liao CM*. In vitro measurement and dynamic
+modeling-based approaches for deposition risk assessment of inhaled
+aerosols in human respiratory system. Atmospheric Environment 2014 Oct;
+95:268-76.
+\end{quote}
+
+2013
+
+\begin{quote}
+\textbf{Hsieh NH}, Liao CM*. Fluctuations in air pollution give risk
+warning signals of asthma hospitalization. Atmospheric Environment 2013
+Aug; 75:206--16.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Liao CM*. Assessing exposure risk for dust storm
+events-associated lung function decrement in asthmatics and implications
+for control. Atmospheric Environment 2013 Apr; 68:256--64.
+\end{quote}
+
+2012
+
+\begin{quote}
+Liao CM*, Cheng YH, Lin YJ, \textbf{Hsieh NH}, Huang TL, Chio CP, Chen
+SC, Ling MP. A Probabilistic transmission and population dynamic model
+to assess tuberculosis infection risk. Risk Analysis 2012 Aug; 32(8):
+1420--32.
+\end{quote}
+
+\begin{quote}
+Chio CP, Chen WY, Chou WC, \textbf{Hsieh NH}, Ling MP, Liao CM*.
+Assessing the potential risk to zebrafish posed by environmentally
+copper and silver nanoparticles. Science of the Total Environment 2012
+Mar; 420: 111--8.
+\end{quote}
+
+\begin{quote}
+Liao CM*, \textbf{Hsieh NH}, Huang TL, Cheng YH, Lin YJ, Chio CP, Chen
+SC, Ling MP. Assessing trends and predictors of tuberculosis in Taiwan.
+BMC Public Health 2012 Jan; 12:29.
+\end{quote}
+
+2011
+
+\begin{quote}
+Liao CM*, \textbf{Hsieh NH}, Chio CP. Fluctuation analysis-based risk
+assessment for respiratory virus activity and air pollution associated
+asthma incidence. Science of the Total Environment 2011 Aug; 409:
+3325--33.
+\end{quote}
+
+\begin{quote}
+Liao CM*, Chio CP, Cheng YH, \textbf{Hsieh NH}, Chen WY, Chen SC.
+Quantitative links between arsenic exposure and influenza A (H1N1)
+infection-associated lung function exacerbations risk. Risk Analysis
+2011 Aug; 31(8): 1281--94.
+\end{quote}
+
+\begin{quote}
+Ling MP, Chio CP, Chou WC, Chen WY, \textbf{Hsieh NH}, Lin YJ, Liao CM*.
+Assessing the potential exposure risk and control for airborne titanium
+dioxide and carbon black nanoparticles in the workplace. Environmental
+Science and Pollution Research 2011 Jul; 18(6): 877--89.
+\end{quote}
+
+2010
+
+\begin{quote}
+Liao CM*, \textbf{Hsieh NH}, Chio CP, Chen SC. Assessing the
+exacerbations risk of influenza-associated chronic occupational asthma.
+Risk Analysis 2010 Jul; 30(7): 1062--75.
+\end{quote}
+
+\begin{quote}
+Liao CM*, Lin TL, \textbf{Hsieh NH}, Chen WY. Assessing the
+arsenic-contaminated rice (Oryza sativa) associated children skin
+lesions. Journal of Hazardous Materials 2010 Apr; 176(1--3): 239--51.
+\end{quote}
+
+\subsection{Conference Papers}\label{conference-papers}
+
+\begin{quote}
+\textbf{Hsieh NH}, Reisfeld B, Bois FY, Chiu WA. Applying a global
+sensitivity analysis workflow to improve computational efficiencies in
+physiologically-based pharmacokinetic model. 57th SOT Annual Meeting,
+San Antonio, USA, March 11-15, 2018.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Reisfeld B, Bois FY, Chiu WA. Applying A Global
+Sensitivity Analysis Workflow to Improve Computational Efficiency in
+Physiologically-Based Pharmacokinetic Modeling. 2017 SRA Annual Meeting,
+Arlington, USA, December 10-14, 2017.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Chung SH. Meta-Analysis of the Fine Particulate
+Matters-Associated Occupational Health Risks. SOT 56th Annual Meeting,
+Baltimore, USA, March 12--16, 2017.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Liao CM. Modeling honey bee extinction risk by
+neonicotinoid insecticide (imidacloprid) exposure. SETAC Europe 26th
+Annual Meeting, Nantes, France, May 22--26, 2016.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Liao CM. Fluctuating air pollution-associated asthma
+incidence in Taiwan. SETAC Europe 23rd Annual Meeting, Glasgow, UK, May
+12--16, 2013.
+\end{quote}
+
+\begin{quote}
+\textbf{Hsieh NH}, Chio CP, Liao CM. Assessing the risks for aquatic
+organisms posed by waterborne copper and silver nanoparticles. SETAC
+Europe 21st Annual Meeting Milan, Italy, May 15--19, 2011.
+\end{quote}
+
+\end{document}

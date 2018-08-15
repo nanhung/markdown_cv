@@ -63,7 +63,6 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 > Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. ILOSH103-A307.
 
 # AWARDS
-- Postgraduate Research Abroad Program, Taiwan Ministry of Science and Technology, 2016 
 - Outstanding R&D alternative military award, Taiwan Ministry of the Interior, 2016
 - Outstanding Alumni, National United University, 2015
 - Best PhD Academic Research Paper, National Taiwan University, 2012
@@ -101,15 +100,15 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 ## Journal Article 
 2018
 
-> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. 2018. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology. In Press.
-
 > Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wrigt AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. 2018. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX. In Press.
 
 > Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. In Press. 
 
-> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. 2018. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology: Jun; 9:588. 
+> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology 2018 Nov; 409(1): 33-43.
 
-> Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. 2018. PBPK/PD assessment for Parkinson’s disease risk posed by airborne pesticide paraguat exposure. Environmental Science and Pollution Research: Feb; 25(6):5359-68.
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology 2018 Jun; 9:588. 
+
+> Cheng YH, Chou WC, Yang YF, Huang CW, How CM, Chen SC, Chen WY, **Hsieh NH**, Lin YJ, You SH, Liao CM*. PBPK/PD assessment for Parkinson’s disease risk posed by airborne pesticide paraguat exposure. Environmental Science and Pollution Research 2018 Feb; 25(6):5359-68.
 
 2017
 
