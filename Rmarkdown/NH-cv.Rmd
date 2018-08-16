@@ -68,13 +68,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 - Best PhD Academic Research Paper, National Taiwan University, 2012
 
 # SERVICES TO THE PROFESSION
-## Editorial Board Member
-
-> *Journal of Environment Pollution and Human Health* 
 
 ## Peer review for scientific journals  
 
-- Computational and Mathematical Methods in Medicine (6) 
+- Computational and Mathematical Methods in Medicine (7) 
 - Environmental Research (1)
 - International Journal of Environmental Research and Public Health (4)
 - International Journal of Molecular Sciences (1)
