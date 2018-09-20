@@ -14,7 +14,7 @@ fontawesome: yes
 email: nhsieh@cvm.tamu.edu
 github: nanhung
 #phone: "+1 555 5555"
-web: nanhung.me
+web: 
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -97,11 +97,11 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 ## Journal Article 
 2018
 
-> Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wright AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. 2018. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX. In Press.
-
-> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. In Press. 
+> Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wright AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. 2018. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX. In Press. doi: 10.14573/altex.1805301.  
 
 > Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology 2018 Nov; 409(1): 33-43.
+
+> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. 2018. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance. 2018 Sep; 11: 1423-35. 
 
 > **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology 2018 Jun; 9:588. 
 
