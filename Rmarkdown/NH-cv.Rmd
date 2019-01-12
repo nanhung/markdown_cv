@@ -14,7 +14,7 @@ fontawesome: yes
 email: nhsieh@cvm.tamu.edu
 github: nanhung
 #phone: "+1 555 5555"
-web: 
+web: nanhung.rbind.io
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -77,6 +77,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 - International Journal of Environmental Research and Public Health (5)
 - International Journal of Molecular Sciences (1)
 - International Journal of Occupational and Environmental Health (1)
+- Journal of Open Source Software (1)
 - European Journal of Pharmaceutical Sciences (1)
 - Science of the Total Environment (1)
 - Stochastic Environmental Research and Risk Assessment (1)
@@ -97,6 +98,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 ---
 
 # PUBLICATIONS
+
+## Software Product
+
+> **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Pharmacokinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
 2018
@@ -175,7 +180,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 > Liao CM*, Lin TL, **Hsieh NH**, Chen WY. Assessing the arsenic-contaminated rice (Oryza sativa) associated children skin lesions. Journal of Hazardous Materials 2010 Apr; 176(1–3): 239–51.
 
-## Conference Papers
+## Conference Paper
 
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: an R package to apply sensitivity analysis in pharmacokinetic modeling. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
 
