@@ -112,7 +112,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 > Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wright AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX 2018 Oct; 35(4): 441-52.   
 
-> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance 2018 Sep; 11: 1423-35. 
+> Cheng YH, Lin YJ, Chen SC&ast;, You SH, Chen WY, **Hsieh NH**, Yang YF, Liao CM&ast;. Assessing health burden risk and control effect on dengue fever infection in southern region of Taiwan. Infection and Drug Resistance 2018 Sep; 11: 1423-35. 
 
 > **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA*. Applying a global sensitivity analysis workflow to improve the computational efficiencies in physiologically-based pharmacokinetic modeling. Frontiers in Pharmacology 2018 Jun; 9:588. 
 
