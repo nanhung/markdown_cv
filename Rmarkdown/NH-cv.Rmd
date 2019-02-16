@@ -79,6 +79,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 - International Journal of Occupational and Environmental Health (1)
 - Journal of Open Source Software (1)
 - European Journal of Pharmaceutical Sciences (1)
+- Reliability Engineering and System Safety (1)
 - Science of the Total Environment (1)
 - Stochastic Environmental Research and Risk Assessment (1)
 - Sustainability (1)
