@@ -90,8 +90,8 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. 1
 
 # COMPUTER INTERESTS
 
-- Operating System: GNU/Linux, MacOS, Windows
-- Scientific computing: C, R, Python, MATLAB
+- Operating System: GNU Linux
+- Scientific computing: C, R, Python, GNU Octave
 - Other: GNU MCSim, Git, High-Performance Computer
 
 # OTHER
