@@ -113,6 +113,11 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Pharmacokinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
+
+2019
+
+> Li YC, Tseng WC, **Hsieh NH**, SC Chen. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
+
 2018
 
 > Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology 2018 Nov; 409(1): 33-43.
