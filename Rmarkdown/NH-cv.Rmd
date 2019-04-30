@@ -42,7 +42,7 @@ Ph.D. Bioenvironmental Systems Engineering, National Taiwan University, 2013
 
 > Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* 
 
-\hfill Advisor: Prof. [Chung-Min Liao](http://homepage.ntu.edu.tw/~cmliao/)
+\hfill Advisor: Prof. [Chung-Min Liao](https://www.researchgate.net/scientific-contributions/38215691_Chung-Min_Liao)
 
 M.Sc. Bioenvironmental Systems Engineering, National Taiwan University, 2010  
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
@@ -68,6 +68,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 > Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. ILOSH103-A307.
 
 # AWARDS
+- Best trainee abstract finalist, Biological Modeling Specialty Section, Society of Toxicology, 2019 
 - Outstanding R&D alternative military award, Taiwan Ministry of the Interior, 2016
 - Outstanding Alumni, National United University, 2015
 - Best PhD Academic Research Paper, National Taiwan University, 2012
@@ -96,7 +97,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 # COMPUTER INTERESTS
 
 - Operating System: GNU Linux
-- Scientific computing: C, R, Python, Julia
+- Scientific computing: R
 - Other: GNU MCSim, Git, High-Performance Computer
 
 # OTHER
@@ -115,6 +116,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 ## Journal Article 
 
 2019
+
+> Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Frontiers in Pharmacology)
+
+> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA, Rusyn I*. Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment A Case Study of Population-based Analysis of Toxicokinetics and Kidney Toxicodynamics of Tetrachloroethylene. (submitted to Environmental Health Perspectives)
 
 > Li YC, Tseng WC, **Hsieh NH**, SC Chen. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
 
