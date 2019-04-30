@@ -30,7 +30,7 @@ urlcolor: blue
 Department of Veterinary Integrative Biosciences, Texas A&M University  
 Postdoctoral Research Associate  \hfill 08/2016 --
 
-\hfill Supervisor: Prof. [Weihsueh A. Chiu](http://homepage.ntu.edu.tw/~cmliao/)
+\hfill Supervisor: Prof. [Weihsueh A. Chiu](https://scholars.library.tamu.edu/vivo/display/n6e29f354)
 
 Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
 Health  
@@ -42,7 +42,7 @@ Ph.D. Bioenvironmental Systems Engineering, National Taiwan University, 2013
 
 > Dissertation: *Dynamic modeling and analysis of air pollution-associated lung function exacerbations risk* 
 
-\hfill Advisor: Prof. [Chung-Min Liao](https://www.researchgate.net/scientific-contributions/38215691_Chung-Min_Liao)
+\hfill Advisor: Prof. [Chung-Min Liao](http://homepage.ntu.edu.tw/~cmliao/)
 
 M.Sc. Bioenvironmental Systems Engineering, National Taiwan University, 2010  
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
