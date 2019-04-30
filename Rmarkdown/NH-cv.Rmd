@@ -30,7 +30,7 @@ urlcolor: blue
 Department of Veterinary Integrative Biosciences, Texas A&M University  
 Postdoctoral Research Associate  \hfill 08/2016 --
 
-\hfill Supervisor: Prof. [Weihsueh A. Chiu](http://vetmed.tamu.edu/vibs/directorydetail?userid=13388)
+\hfill Supervisor: Prof. [Weihsueh A. Chiu](http://homepage.ntu.edu.tw/~cmliao/)
 
 Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
 Health  
@@ -68,7 +68,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 > Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. ILOSH103-A307.
 
 # AWARDS
-- Best trainee abstract finalist, Biological Modeling Specialty Section, Society of Toxicology, 2019 
+- Best Trainee Abstract Finalist, Biological Modeling Specialty Section, Society of Toxicology, 2019 
 - Outstanding R&D alternative military award, Taiwan Ministry of the Interior, 2016
 - Outstanding Alumni, National United University, 2015
 - Best PhD Academic Research Paper, National Taiwan University, 2012
@@ -94,6 +94,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 - The Journal of Open Source Software ([1](https://github.com/openjournals/joss-reviews/issues/1082))
 
+## Website service
+
+- Biological Modeling Specialty Section, Society of Toxicology
+
 # COMPUTER INTERESTS
 
 - Operating System: GNU Linux
@@ -103,7 +107,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 # OTHER
 - Membership: Society of Toxicology (USA)
 - Language: Mandarin (Native), English
-- Personal Interests: Computer & Information Technology
+- Personal Interests: Software development
 
 ---
 
@@ -121,7 +125,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 > Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA, Rusyn I*. Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment A Case Study of Population-based Analysis of Toxicokinetics and Kidney Toxicodynamics of Tetrachloroethylene. (submitted to Environmental Health Perspectives)
 
-> Li YC, Tseng WC, **Hsieh NH**, SC Chen. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
+> Li YC, Tseng WC, **Hsieh NH**, Chen SC*. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
 
 2018
 
@@ -201,7 +205,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 ## Conference Paper
 
-> Reisfeld B, Chiu WA, **Hsieh NH**, Olschanowsky C, Bois F, Ghosh S. PoPKAT: A Framework for Bayesian Population PBPK Analysis. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
+> Reisfeld B, Chiu WA, **Hsieh NH**, Olschanowsky C, Bois FY, Ghosh S. PoPKAT: A Framework for Bayesian Population PBPK Analysis. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
 
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: an R package to apply sensitivity analysis in pharmacokinetic modeling. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
 
