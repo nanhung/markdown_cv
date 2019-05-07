@@ -30,6 +30,9 @@ urlcolor: blue
 Department of Veterinary Integrative Biosciences, Texas A&M University  
 Postdoctoral Research Associate  \hfill 08/2016 --
 
+> Regulatory Science in Environmental Health and Toxicology Training Program,   
+Texas A&M University Interdisciplinary Faculty of Toxicology. [T32 ES026568](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/grantPubDetail/grant_number/T32ES026568)
+
 \hfill Supervisor: Prof. [Weihsueh A. Chiu](https://scholars.library.tamu.edu/vivo/display/n6e29f354)
 
 Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
@@ -50,7 +53,7 @@ B.Sc. Safety, Health and Environmental Engineering, National United University, 
 # RESEARCH PROJECT
 **Postdoctoral Research Associate** \hfill 2017-  
 
-> National Institute of Environmental Health Sciences. *Texas A&M University Superfund Research Program - Comprehensive Tools and Models for Addressing Exposure to Mixtures During Environmental Emergency-Related Contamination Events*. [P42ES027704](https://tools.niehs.nih.gov/srp/programs/Program_detail.cfm?Project_ID=P42ES027704)  
+> National Institute of Environmental Health Sciences. *Texas A&M University Superfund Research Program - Comprehensive Tools and Models for Addressing Exposure to Mixtures During Environmental Emergency-Related Contamination Events*. [P42 ES027704](https://tools.niehs.nih.gov/srp/programs/Program_detail.cfm?Project_ID=P42ES027704)  
 
 
 **Postdoctoral Research Associate** \hfill 09/2016--  
@@ -61,11 +64,20 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 **Principle Investigator**  \hfill 03/2015--12/2015  
 
-> Institute of Labor, Occupational Safety and Health. *Assessing the Fine Particles-Associated Exposure Hazards for Workers in Workplace*. ILOSH104-A310. 
+> Institute of Labor, Occupational Safety and Health. *Assessing the Fine Particles-Associated Exposure Hazards for Workers in Workplace*. [ILOSH104-A310](https://laws.ilosh.gov.tw/ioshcustom/Web/YearlyReserachReports/Detail?id=2862). 
 
 **Principle Investigator**  \hfill 03/2014--12/2014  
 
-> Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. ILOSH103-A307.
+> Institute of Labor, Occupational Safety and Health. *Assessing Health Risks for Workers in High Lead Exposed Factories*. [ILOSH103-A307](https://laws.ilosh.gov.tw/ioshcustom/Web/YearlyReserachReports/Detail?id=2764).
+
+**Co-PI**  \hfill 08/2014--12/2014  
+
+> Institute of Labor, Occupational Safety and Health. *Chemicals Management and Supervision in Europe, Japan, United States and South Korea*. [ILOSH103-A317](https://laws.ilosh.gov.tw/ioshcustom/Web/YearlyReserachReports/Detail?id=2757).
+
+**Co-PI**  \hfill 08/2013--12/2013  
+
+> Institute of Labor, Occupational Safety and Health. *Sampling and Analytical Method of Multicomponents Solvents for Printed Circuit Board Industry*
+[IOSH102-A317](https://laws.ilosh.gov.tw/ioshcustom/Web/YearlyReserachReports/Detail?id=2726).
 
 # AWARDS
 - Best Trainee Abstract Finalist, Biological Modeling Specialty Section, Society of Toxicology, 2019 
@@ -98,6 +110,20 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 - Biological Modeling Specialty Section, Society of Toxicology
 
+## Invited talk
+
+- Big Data Working Group (Texas A&M), May 2019
+
+> *"Applying Global Sensitivity Analysis in Bayesian Population Physiologically Based Kinetic Modeling"*  
+
+- California Office of Environmental Health Hazard Assessment, Apr 2019
+
+> *"Tutorial of GNU MCSim and R"* 
+
+- Toxicology Seminar (VTPP 681, Texas A&M), September 2018
+
+> *"Applying a Global Sensitivity Analysis Workflow to Improve the Computational Efficiencies in Physiologically-Based Pharmacokinetic Modeling"* 
+
 # COMPUTER INTERESTS
 
 - Operating System: GNU Linux
@@ -105,8 +131,9 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - Other: GNU MCSim, Git, High-Performance Computer
 
 # OTHER
+
 - Membership: Society of Toxicology (USA)
-- Language: Mandarin (Native), English
+- Language: Mandarin Chinese (Native), English
 - Personal Interests: Software development
 
 ---
