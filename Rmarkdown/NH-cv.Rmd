@@ -116,7 +116,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 > *"Applying Global Sensitivity Analysis in Bayesian Population Physiologically Based Kinetic Modeling"*  
 
-- California Office of Environmental Health Hazard Assessment, Apr 2019
+- California Office of Environmental Health Hazard Assessment, April 2019
 
 > *"Tutorial of GNU MCSim and R"* 
 
