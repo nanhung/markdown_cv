@@ -150,7 +150,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 > Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Frontiers in Pharmacology)
 
-> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA, Rusyn I*. Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment A Case Study of Population-based Analysis of Toxicokinetics and Kidney Toxicodynamics of Tetrachloroethylene. (submitted to Environmental Health Perspectives)
+> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment A Case Study of Population-based Analysis of Toxicokinetics and Kidney Toxicodynamics of Tetrachloroethylene. Environmental Health Perspectives 2019 Jun; https://doi.org/10.1289/EHP5105
 
 > Li YC, Tseng WC, **Hsieh NH**, Chen SC*. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
 
