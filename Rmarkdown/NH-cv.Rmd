@@ -158,7 +158,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 2018
 
-> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology 2018 Nov; 409(1): 33-43. https://doi.org/10.1016/j.tox.2018.07.012
+> Luo YS, **Hsieh NH**, Chiu WA, Rusyn I*. Comparative analysis of metabolism of trichloroethylene and tetrachloroethylene among tissues and mouse strains. Toxicology 2018 Nov; 409(1): 33-43. https://doi.org/10.1016/j.tox.2018.07.012 (co-first author)
 
 > Grimm FA, Blanchette A, House JS, Ferguson K, **Hsieh NH**, Dalaijamts C, Wright AA, Anson B, Wright FA, Chiu WA, Rusyn I\*. A human population-based organotypic *in vitro* model for cardiotoxicity screening. ALTEX 2018 Oct; 35(4): 441-52. https://doi.org/10.14573/altex.1805301
 
