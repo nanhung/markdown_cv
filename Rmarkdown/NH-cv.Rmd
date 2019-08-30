@@ -142,7 +142,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 ## Software Product
 
-> **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Pharmacokinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
+> **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Physiologically Based Kinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
 
@@ -180,21 +180,21 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 2016
 
-> Chen WY*, Chen ZY, **Hsieh NH**, Ju YT. Site-specific water quality criteria for lethal/sublethal protections of freshwater fish exposed to zinc in southern Taiwan. Chemosphere 2016 Sep; 159:412-9.
+> Chen WY*, Chen ZY, **Hsieh NH**, Ju YT. Site-specific water quality criteria for lethal/sublethal protections of freshwater fish exposed to zinc in southern Taiwan. Chemosphere 2016 Sep; 159:412-9. https://doi.org/10.1016/j.chemosphere.2016.06.027
 
-> Cheng YH, Wang CH, You SH, **Hsieh NH**, Chen WY, Chio CP, Liao CM*. Assessing coughing-induced influenza droplet transmission and implications for infection risk control. Epidemiology and Infection 2016 Jan; 144(2):333-45.
+> Cheng YH, Wang CH, You SH, **Hsieh NH**, Chen WY, Chio CP, Liao CM*. Assessing coughing-induced influenza droplet transmission and implications for infection risk control. Epidemiology and Infection 2016 Jan; 144(2):333-45. https://doi.org/10.1017/S0950268815001739
 
 2015
 
-> Chen WY, Cheng YH, **Hsieh NH**, Wu BC, Chou WC, Ho CC, Chen JK, Liao CM\*, Lin P\*. Physiologically-based pharmacokinetic modeling of zinc oxide nanoparticles and zinc nitrate in mice. International Journal of Nanomedicine 2015 Oct; 10:6277-6292.
+> Chen WY, Cheng YH, **Hsieh NH**, Wu BC, Chou WC, Ho CC, Chen JK, Liao CM\*, Lin P\*. Physiologically-based pharmacokinetic modeling of zinc oxide nanoparticles and zinc nitrate in mice. International Journal of Nanomedicine 2015 Oct; 10:6277-6292. https://doi.org/10.2147/IJN.S86785
 
-> Liao CM*, Wu BC, Cheng YH, You SH, Lin YJ, **Hsieh NH**. Ceramics manufacturing contributes to ambient silica air pollution and burden of lung disease. Environmental Science and Pollution Research 2015 Oct; 22(19):15067-79.
+> Liao CM*, Wu BC, Cheng YH, You SH, Lin YJ, **Hsieh NH**. Ceramics manufacturing contributes to ambient silica air pollution and burden of lung disease. Environmental Science and Pollution Research 2015 Oct; 22(19):15067-79. https://doi.org/10.1007/s11356-015-4701-6
 
-> Chen SC, **Hsieh NH**, You SH, Wang CH, Liao CM*. Behavioural response in educated young adults towards influenza A(H1N1)pdm09. Epidemiology and Infection 2015 Jul; 143(9):1846-57.
+> Chen SC, **Hsieh NH**, You SH, Wang CH, Liao CM*. Behavioural response in educated young adults towards influenza A(H1N1)pdm09. Epidemiology and Infection 2015 Jul; 143(9):1846-57. https://doi.org/10.1017/S0950268814002714
 
-> Liao CM*, Huang TL, Cheng YH, Chen WY, **Hsieh NH**, Chen SC, Chio CP. Assessing dengue infection risk in southern region of Taiwan and implications for control. Epidemiology and Infection 2015 Apr; 143(5):1059-72.
+> Liao CM*, Huang TL, Cheng YH, Chen WY, **Hsieh NH**, Chen SC, Chio CP. Assessing dengue infection risk in southern region of Taiwan and implications for control. Epidemiology and Infection 2015 Apr; 143(5):1059-72. https://doi.org/10.2147/IDR.S169820
 
-> Liao CM*, Huang TL, Lin YJ, You SH, Cheng YH, **Hsieh NH**, Chen WY. Regional response of dengue fever epidemics to interannual variation and related climate variability. Stochastic Environmental Research and Risk Assessment 2015 Mar; 29(3):947-58.
+> Liao CM*, Huang TL, Lin YJ, You SH, Cheng YH, **Hsieh NH**, Chen WY. Regional response of dengue fever epidemics to interannual variation and related climate variability. Stochastic Environmental Research and Risk Assessment 2015 Mar; 29(3):947-58. https://doi.org/10.1007/s00477-014-0948-6
 
 2014
 
