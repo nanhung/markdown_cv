@@ -150,9 +150,9 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 > Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Frontiers in Pharmacology)
 
-> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment A Case Study of Population-based Analysis of Toxicokinetics and Kidney Toxicodynamics of Tetrachloroethylene. Environmental Health Perspectives 2019 Jun; https://doi.org/10.1289/EHP5105
+> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross mouse population to fill data gaps in risk assessment: a case study of population-based analysis of toxicokinetics and kidney toxicodynamics of tetrachloroethylene. Environmental Health Perspectives 2019 Jun; https://doi.org/10.1289/EHP5105
 
-> Blanchette AD, Grimm FA, Dalaijamts C, **Hsieh NH**, Ferguson K, Luo YS, Rusyn I, Chiu WA. Thorough QT/QTc in a Dish: An In Vitro Human Model That Accurately Predicts Clinical Concentration‐QTc Relationships. Clinical Pharmacology & Therapeutics. 2019 May;105(5):1175-86. https://doi.org/10.1002/cpt.1259
+> Blanchette AD, Grimm FA, Dalaijamts C, **Hsieh NH**, Ferguson K, Luo YS, Rusyn I, Chiu WA. Thorough QT/QTc in a dish: an *in vitro* human model that accurately predicts clinical concentration‐QTc relationships. Clinical Pharmacology & Therapeutics. 2019 May;105(5):1175-86. https://doi.org/10.1002/cpt.1259
 
 > Li YC, Tseng WC, **Hsieh NH**, Chen SC*. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
 
@@ -232,15 +232,15 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 ## Conference Paper
 
-> Reisfeld B, Chiu WA, **Hsieh NH**, Olschanowsky C, Bois FY, Ghosh S. PoPKAT: A Framework for Bayesian Population PBPK Analysis. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
+> Reisfeld B, Chiu WA, **Hsieh NH**, Olschanowsky C, Bois FY, Ghosh S. PoPKAT: A framework for Bayesian population PBPK analysis. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
 
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: an R package to apply sensitivity analysis in pharmacokinetic modeling. 58th SOT Annual Meeting, Baltimore, USA, March 10–14, 2019.
 
 > **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA. Applying a global sensitivity analysis workflow to improve computational efficiencies in physiologically-based pharmacokinetic model. 57th SOT Annual Meeting, San Antonio, USA, March 11-15, 2018.
 
-> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA. Applying A Global Sensitivity Analysis Workflow to Improve Computational Efficiency in Physiologically-Based Pharmacokinetic Modeling. 2017 SRA Annual Meeting, Arlington, USA, December 10-14, 2017. 
+> **Hsieh NH**, Reisfeld B, Bois FY, Chiu WA. Applying A global sensitivity analysis workflow to improve computational efficiency in physiologically-based pharmacokinetic modeling. 2017 SRA Annual Meeting, Arlington, USA, December 10-14, 2017. 
 
-> **Hsieh NH**, Chung SH. Meta-Analysis of the Fine Particulate Matters-Associated Occupational Health Risks. SOT 56th Annual Meeting, Baltimore, USA, March 12–16, 2017.
+> **Hsieh NH**, Chung SH. Meta-analysis of the fine particulate matters-associated occupational health risks. SOT 56th Annual Meeting, Baltimore, USA, March 12–16, 2017.
 
 > **Hsieh NH**, Liao CM. Modeling honey bee extinction risk by neonicotinoid insecticide (imidacloprid) exposure. SETAC Europe 26th Annual Meeting, Nantes, France, May 22–26, 2016.
 
