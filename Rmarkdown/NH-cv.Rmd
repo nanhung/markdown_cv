@@ -76,7 +76,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 **Co-PI**  \hfill 08/2013--12/2013  
 
-> Institute of Labor, Occupational Safety and Health. *Sampling and Analytical Method of Multicomponents Solvents for Printed Circuit Board Industry*
+> Institute of Labor, Occupational Safety and Health. *Sampling and Analytical Method of Multicomponents Solvents for Printed Circuit Board Industry*.
 [IOSH102-A317](https://laws.ilosh.gov.tw/ioshcustom/Web/YearlyReserachReports/Detail?id=2726).
 
 # AWARDS
@@ -129,12 +129,13 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - Operating System: GNU Linux
 - Scientific computing: R
 - Other: GNU MCSim, Git, High-Performance Computer
+- Certificate: [Advanced R Programming](https://www.coursera.org/account/accomplishments/certificate/Q3PR7Z4A257W), [Building R Packages](https://www.coursera.org/account/accomplishments/certificate/JGBH8D8V8SXU), [Data Science and Machine Learning Essentials](https://courses.edx.org/certificates/user/8318625/course/course-v1:Microsoft+DAT203x+1T2016), [The R Programming Environment](https://www.coursera.org/account/accomplishments/certificate/DEF3F5EJV3M2) 
 
 # OTHER
 
-- Membership: Society of Toxicology (USA)
+- Membership: Society of Toxicology, Toastmaster
 - Language: Mandarin Chinese (Native), English
-- Personal Interests: Software development
+- Personal Interests: Software development, Information technology
 
 ---
 
