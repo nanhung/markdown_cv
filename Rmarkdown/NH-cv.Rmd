@@ -128,7 +128,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 - Operating System: GNU Linux
 - Scientific computing: R
-- Other: GNU MCSim, Git, High-Performance Computer
+- Other: GNU MCSim, Git, High-Performance Computer, Stan
 - Certificate: [Advanced R Programming](https://www.coursera.org/account/accomplishments/certificate/Q3PR7Z4A257W), [Building R Packages](https://www.coursera.org/account/accomplishments/certificate/JGBH8D8V8SXU), [Data Science and Machine Learning Essentials](https://courses.edx.org/certificates/user/8318625/course/course-v1:Microsoft+DAT203x+1T2016), [The R Programming Environment](https://www.coursera.org/account/accomplishments/certificate/DEF3F5EJV3M2) 
 
 # OTHER
