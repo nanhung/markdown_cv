@@ -35,8 +35,7 @@ Texas A&M University Interdisciplinary Faculty of Toxicology. [T32 ES026568](htt
 
 \hfill Supervisor: Prof. [Weihsueh A. Chiu](https://scholars.library.tamu.edu/vivo/display/n6e29f354)
 
-Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and
-Health  
+Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and Health, Ministry of Labor  
 Research Associate \hfill 08/2013 -- 07/2016 
 
 # EDUCATION
@@ -148,6 +147,8 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 ## Journal Article 
 
 2019
+
+> **Hsieh NH**, Reisfeld B, Chiu WA*. pksensi: R package to apply global sensitivity analysis in physiologically based kinetic models. (submitted to Journal of Statistical Software)
 
 > Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Frontiers in Pharmacology)
 
