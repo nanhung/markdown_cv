@@ -154,11 +154,13 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 ## Journal Article 
 
-2019
+2020
 
 > **Hsieh NH**, Reisfeld B, Chiu WA*. pksensi: R package to apply global sensitivity analysis in physiologically based kinetic models. (submitted to R Journal)
 
 > Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Journal of Pharmacokinetics and Pharmacodynamics)
+
+2019
 
 > Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross mouse population to fill data gaps in risk assessment: a case study of population-based analysis of toxicokinetics and kidney toxicodynamics of tetrachloroethylene. Environmental Health Perspectives 2019 Jun; https://doi.org/10.1289/EHP5105
 
