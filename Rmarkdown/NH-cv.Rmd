@@ -28,7 +28,7 @@ urlcolor: blue
 
 # EXPERIENCE
 Department of Veterinary Integrative Biosciences, Texas A&M University  
-Postdoctoral Research Associate  \hfill 08/2016 --
+Postdoctoral Research Associate  \hfill 08/2016 -- current
 
 > Regulatory Science in Environmental Health and Toxicology Training Program,   
 Texas A&M University Interdisciplinary Faculty of Toxicology. [T32 ES026568](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/grantPubDetail/grant_number/T32ES026568)
@@ -50,12 +50,12 @@ M.Sc. Bioenvironmental Systems Engineering, National Taiwan University, 2010
 B.Sc. Safety, Health and Environmental Engineering, National United University, 2007  
 
 # RESEARCH PROJECT
-**Postdoctoral Research Associate** \hfill 2017-  
+**Postdoctoral Research Associate** \hfill 04/2017--03/2022
 
 > National Institute of Environmental Health Sciences. *Texas A&M University Superfund Research Program - Comprehensive Tools and Models for Addressing Exposure to Mixtures During Environmental Emergency-Related Contamination Events*. [P42 ES027704](https://tools.niehs.nih.gov/srp/programs/Program_detail.cfm?Project_ID=P42ES027704)  
 
 
-**Postdoctoral Research Associate** \hfill 09/2016--  
+**Postdoctoral Research Associate** \hfill 09/2016--08/2020  
 
 > U.S. Food and Drug Administration. *Enhancing the reliability, efficiency, and
 usability of Bayesian population PBPK modeling - Create, implement, and evaluate a robust Global
@@ -156,7 +156,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 2020
 
-> **Hsieh NH**, Reisfeld B, Chiu WA*. pksensi: R package to apply global sensitivity analysis in physiologically based kinetic models. (submitted to R Journal)
+> **Hsieh NH**, Reisfeld B, Chiu WA*. pksensi: an R package to apply global sensitivity analysis in physiologically based kinetic models. (submitted to SoftwareX)
 
 > Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Journal of Pharmacokinetics and Pharmacodynamics)
 
