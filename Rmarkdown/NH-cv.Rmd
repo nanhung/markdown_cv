@@ -8,10 +8,10 @@ geometry: margin=1in
 title: "CV"
 author: Nan-Hung Hsieh 
 orcid:  "orcid.org/0000-0003-0163-2766"
-jobtitle: "Postdoctoral Research Associate, Texas A&M University"
+jobtitle: "Associate Toxicologist, California Department of Pesticide Regulation"
 #address: "402 Raymond Stotzer Pkwy, College Station, TX 77845"
 fontawesome: yes
-email: nhsieh@cvm.tamu.edu
+email: nan-hung.hsieh@cdpr.ca.gov
 github: nanhung
 #phone: "+1 555 5555"
 web: nanhung.rbind.io
@@ -27,8 +27,12 @@ urlcolor: blue
 ---
 
 # EXPERIENCE
+
+California Department of Pesticide Regulation  
+Associate Toxicologist  \hfill 07/2020 -- current
+
 Department of Veterinary Integrative Biosciences, Texas A&M University  
-Postdoctoral Research Associate  \hfill 08/2016 -- current
+Postdoctoral Research Associate  \hfill 08/2016 -- 07/2020
 
 > Regulatory Science in Environmental Health and Toxicology Training Program,   
 Texas A&M University Interdisciplinary Faculty of Toxicology. [T32 ES026568](https://tools.niehs.nih.gov/portfolio/index.cfm/portfolio/grantPubDetail/grant_number/T32ES026568)
@@ -86,20 +90,18 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 # SERVICES TO THE PROFESSION
 
-## Peer review for scientific journals  
+## Peer review for scientific journals ([Publons](https://publons.com/researcher/435686/nan-hung-hsieh/peer-review/))
 
-- Computational and Mathematical Methods in Medicine (7) 
-- Computational Toxicology (1)
-- Environmental Research (1)
-- International Journal of Environmental Research and Public Health (5)
-- International Journal of Molecular Sciences (1)
-- International Journal of Occupational and Environmental Health (1)
-- European Journal of Pharmaceutical Sciences (1)
-- Reliability Engineering and System Safety (1)
-- Science of the Total Environment (1)
-- Stochastic Environmental Research and Risk Assessment (1)
-- Sustainability (1)
-- Toxicological Sciences (1)
+- Computational and Mathematical Methods in Medicine 
+- Computational Toxicology 
+- Environmental Chemistry Letters 
+- International Journal of Environmental Research and Public Health 
+- International Journal of Molecular Sciences 
+- European Journal of Pharmaceutical Sciences 
+- Reliability Engineering and System Safety 
+- Science of the Total Environment 
+- Sustainability 
+- Toxicological Sciences 
 
 ## Open peer review
 
@@ -134,15 +136,14 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 # COMPUTER INTERESTS
 
 - Operating System: GNU Linux
-- Scientific computing: R
-- Other: GNU MCSim, Git, High-Performance Computer, Stan
+- Scientific computing: R, GNU MCSim, Stan
 - Certificate: [Advanced R Programming](https://www.coursera.org/account/accomplishments/certificate/Q3PR7Z4A257W), [Building R Packages](https://www.coursera.org/account/accomplishments/certificate/JGBH8D8V8SXU), [Data Science and Machine Learning Essentials](https://courses.edx.org/certificates/user/8318625/course/course-v1:Microsoft+DAT203x+1T2016), [The R Programming Environment](https://www.coursera.org/account/accomplishments/certificate/DEF3F5EJV3M2) 
 
 # OTHER
 
 - Membership: Society of Toxicology, Toastmaster
 - Language: Mandarin Chinese (Native), English
-- Personal Interests: Software development, Data science
+- Personal Interests: Software development, Open science
 
 ---
 
@@ -156,17 +157,17 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 2020
 
-> **Hsieh NH**, Reisfeld B, Chiu WA*. pksensi: an R package to apply global sensitivity analysis in physiologically based kinetic models. (submitted to SoftwareX)
+> **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: An R package to apply global sensitivity analysis in physiologically based kinetic modeling. SoftwareX. 2020 Jul 1;12:100609. https://doi.org/10.1016/j.softx.2020.100609
 
-> Bois FY\*, **Hsieh NH**, Gao W, Reisfeld B, Chiu WA. Well tempered MCMC simulations for population pharmacokinetic models. (submitted to Journal of Pharmacokinetics and Pharmacodynamics)
+> Bois FY, **Hsieh NH**, Gao W, Chiu WA, Reisfeld B. Well-tempered MCMC simulations for population pharmacokinetic models. Journal of Pharmacokinetics and Pharmacodynamics. 2020 Jul 31:1-7. https://doi.org/10.1007/s10928-020-09705-0  
 
 2019
 
-> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross mouse population to fill data gaps in risk assessment: a case study of population-based analysis of toxicokinetics and kidney toxicodynamics of tetrachloroethylene. Environmental Health Perspectives 2019 Jun; https://doi.org/10.1289/EHP5105
+> Luo YS, Cichocki JA, **Hsieh NH**, Lewis L, Threadgill DW, Chiu WA&ast;, Rusyn I&ast;. Using Collaborative Cross mouse population to fill data gaps in risk assessment: a case study of population-based analysis of toxicokinetics and kidney toxicodynamics of tetrachloroethylene. Environmental Health Perspectives 2019 Jun27;127(6):067011. https://doi.org/10.1289/EHP5105  
 
-> Blanchette AD, Grimm FA, Dalaijamts C, **Hsieh NH**, Ferguson K, Luo YS, Rusyn I, Chiu WA. Thorough QT/QTc in a dish: an *in vitro* human model that accurately predicts clinical concentration‐QTc relationships. Clinical Pharmacology & Therapeutics. 2019 May;105(5):1175-86. https://doi.org/10.1002/cpt.1259
+> Blanchette AD, Grimm FA, Dalaijamts C, **Hsieh NH**, Ferguson K, Luo YS, Rusyn I, Chiu WA. Thorough QT/QTc in a dish: an *in vitro* human model that accurately predicts clinical concentration‐QTc relationships. Clinical Pharmacology & Therapeutics. 2019 May;105(5):1175-86. https://doi.org/10.1002/cpt.1259  
 
-> Li YC, Tseng WC, **Hsieh NH**, Chen SC*. Assessing the seasonality of occupancy number-associated CO2 level in a Taiwan hospital. Environmental Science and Pollution Research 2019 Apr; https://doi.org/10.1007/s11356-019-05084-3
+> Li YC, Tseng WC, **Hsieh NH**, Chen SC. Assessing the seasonality of occupancy number-associated CO~2~ level in a Taiwan hospital. Environmental Science and Pollution Research. 2019 Jun 1;26(16):16422-32. https://doi.org/10.1007/s11356-019-05084-3  
 
 2018
 
