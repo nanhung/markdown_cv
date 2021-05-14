@@ -102,10 +102,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - Science of the Total Environment 
 - Sustainability 
 - Toxicological Sciences 
-
-## Open peer review
-
-- The Journal of Open Source Software ([1](https://github.com/openjournals/joss-reviews/issues/1082))
+- The Journal of Open Source Software
 
 ## Website service
 
@@ -154,6 +151,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Physiologically Based Kinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
+
+2021
+
+> **Hsieh NH**, Chen Z, Rusyn I, Chiu WA. Risk Characterization and Probabilistic Concentration–Response Modeling of Complex Environmental Mixtures Using New Approach Methodologies (NAMs) Data from Organotypic in Vitro Human Stem Cell Assays. Environmental Health Perspectives 2021 Jan 4;129(1):017004. https://doi.org/10.1289/EHP7600
 
 2020
 
@@ -244,6 +245,10 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 > Liao CM*, Lin TL, **Hsieh NH**, Chen WY. Assessing the arsenic-contaminated rice (Oryza sativa) associated children skin lesions. Journal of Hazardous Materials 2010 Apr; 176(1–3): 239–51.
 
 ## Conference Paper
+
+> **Hsieh NH**. Bayesian Population Analysis of Age-Related Physiologically Based Pharmacokinetic Model of Pyrethroids in Rats. 60th SOT Annual Meeting, Baltimore, USA, March 12–26, 2021.
+
+> **Hsieh NH**, Bois FY, Tsakalozou E, Yoon M, Reisfeld B, Chiu WA. A Bayesian population compartmental absorption and transit modeling approach to support generic drug development: application to bupropion hydrochloride oral dosage forms. 11th American Conference on Pharmacometrics, virtual, November 9-13, 2020.
 
 > **Hsieh NH**, Chen Z, Rusyn I, Chiu WA. Concentration-response modeling of in vitro bioactivity data from complex mixtures of priority Superfund compounds. 2019 SRP Annual Meeting, Seattle, USA, November 18–20, 2019.
 
