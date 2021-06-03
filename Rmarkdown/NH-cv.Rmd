@@ -103,10 +103,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - Sustainability 
 - Toxicological Sciences 
 - The Journal of Open Source Software
-
-## Website service
-
-- Biological Modeling Specialty Section, Society of Toxicology
+- The R Journal
 
 ## Invited talk
 
